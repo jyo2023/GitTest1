@@ -1,1 +1,3 @@
 # GitTest1
+
+THIE IS MY FIRST GIT PROJECT
